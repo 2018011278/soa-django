@@ -25,7 +25,7 @@ SECRET_KEY = 'ebgv!=-y%c*c38%fao@1u7!6hn$s-o%d9d%azz2kmgnv@y&hcc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
